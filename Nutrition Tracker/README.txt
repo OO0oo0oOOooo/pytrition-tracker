@@ -1,4 +1,4 @@
-# How To Use
+How To Use
 1. Run to python script "nutrition_tracker.py" to generate a new directory and txt file for that year-month-day if one doesn't exist.
 2. Enter amount of C: P: F: for each food "C:100" "P:1" "F:1"
 3. Close txt file. (Using Calc Nutrition with txt file open doesnt adds incorrectly)
